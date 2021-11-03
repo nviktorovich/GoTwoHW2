@@ -1,3 +1,11 @@
+// Package for getting nums info
+//
+// The IsPrime get int number and returns boolean
+// IsPrime(num int) bool
+//
+// The IsOdd get int number and returns boolean
+// IsOdd(num int) bool
+
 package GoTwoHW2
 
 // IsPrime function return true if number is prime.
